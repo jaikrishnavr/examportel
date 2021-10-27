@@ -193,8 +193,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
       <div class="modal-body">
         <p>
 		<div class="row">
-		<div class="col-md-4">
-		 <div class="col-md-4">
+	<div class="col-md-4">
 		 <img src="profileimageroundcorner.png" width=100 height=100 alt="profile" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
