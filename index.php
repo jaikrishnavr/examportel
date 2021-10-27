@@ -195,14 +195,16 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <div class="col-md-4">
+		 <img src="profileimageroundcorner.png" width=100 height=100 alt="profile" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="https://www.facebook.com/donnieboiii" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Lyndon Rife Bermoy</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+639079373999</h4>
-		<h4 style="font-family:'typo' ">serbermz2020@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Philippine Science High School - Caraga Region Campus</h4></div></div>
+		<title="Find on Facebook">Jai krishna V.R</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 7373185857</h4>
+		<h4 style="font-family:'typo' ">jaikrishnagokul@gmail.com</h4>
+		<h4 style="font-family:'typo' ">Sri Krishna College of Engineering and Technology</h4></div></div>
 		</p>
+      </div>
       </div>
     
     </div><!-- /.modal-content -->
